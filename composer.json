@@ -11,8 +11,8 @@
     }
   ],
   "require": {
-    "humanmade/cms": "0.0.1",
-    "humanmade/cloud": "0.0.1",
-    "humanmade/local-server": "0.0.1"
+    "humanmade/cms": "dev-master",
+    "humanmade/cloud": "dev-master",
+    "humanmade/local-server": "dev-master"
   }
 }
