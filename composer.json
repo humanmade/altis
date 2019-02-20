@@ -1,7 +1,7 @@
 {
   "name": "humanmade/platform",
   "description": "Human Made Platform",
-  "type": "library",
+  "type": "metapackage",
   "license": "GPL-2.0-or-later",
   "authors": [
     {
