@@ -10,5 +10,11 @@
     }
   ],
   "require": {
+    "humanmade/core": "dev-master",
+    "humanmade/cms": "dev-master",
+    "humanmade/cloud": "dev-master",
+    "humanmade/enhanced-search": "dev-master",
+    "humanmade/documentation": "dev-master",
+    "humanmade/media": "dev-master"
   }
 }
