@@ -15,6 +15,9 @@
     "humanmade/cloud": "dev-master",
     "humanmade/enhanced-search": "dev-master",
     "humanmade/documentation": "dev-master",
-    "humanmade/media": "dev-master"
+    "humanmade/media": "dev-master",
+    "humanmade/seo": "dev-master",
+    "humanmade/sso": "dev-master",
+    "humanmade/security": "dev-master"
   }
 }
