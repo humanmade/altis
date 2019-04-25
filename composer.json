@@ -10,6 +10,7 @@
     }
   ],
   "require": {
+    "php": ">=7.1",
     "humanmade/core": "dev-master",
     "humanmade/cms": "dev-master",
     "humanmade/cloud": "dev-master",
