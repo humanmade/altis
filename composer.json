@@ -11,18 +11,18 @@
   ],
   "require": {
     "php": ">=7.1",
-    "humanmade/core": "1.0.0-beta1",
-    "humanmade/cms": "1.0.0-beta1",
-    "humanmade/cloud": "1.0.0-beta1",
-    "humanmade/enhanced-search": "1.0.0-beta1",
-    "humanmade/documentation": "1.0.0-beta1",
-    "humanmade/media": "1.0.0-beta1",
-    "humanmade/seo": "1.0.0-beta1",
-    "humanmade/sso": "1.0.0-beta1",
-    "humanmade/security": "1.0.0-beta1",
-    "humanmade/multilingual": "1.0.0-beta1",
-    "humanmade/workflow": "1.0.0-beta1",
-    "humanmade/dev-tools": "1.0.0-beta1",
-    "humanmade/analytics": "1.0.0-beta1"
+    "humanmade/core": "1.0.0-beta2",
+    "humanmade/cms": "1.0.0-beta2",
+    "humanmade/cloud": "1.0.0-beta2",
+    "humanmade/enhanced-search": "1.0.0-beta2",
+    "humanmade/documentation": "1.0.0-beta2",
+    "humanmade/media": "1.0.0-beta2",
+    "humanmade/seo": "1.0.0-beta2",
+    "humanmade/sso": "1.0.0-beta2",
+    "humanmade/security": "1.0.0-beta2",
+    "humanmade/multilingual": "1.0.0-beta2",
+    "humanmade/workflow": "1.0.0-beta2",
+    "humanmade/dev-tools": "1.0.0-beta2",
+    "humanmade/analytics": "1.0.0-beta2"
   }
 }
