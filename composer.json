@@ -1,6 +1,6 @@
 {
-  "name": "humanmade/platform",
-  "description": "Human Made Platform",
+  "name": "altis/altis",
+  "description": "Altis DXP",
   "type": "metapackage",
   "license": "GPL-2.0-or-later",
   "authors": [
