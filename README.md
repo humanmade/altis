@@ -1,8 +1,8 @@
 <table width="100%">
 	<tr>
 		<td align="left" width="70">
-			<strong>Platform</strong><br />
-			Meta package for all the platform modules.
+			<strong>Altis</strong><br />
+			Meta package for all the Altis modules.
 		</td>
 		<td align="right" width="20%">
 		</td>
