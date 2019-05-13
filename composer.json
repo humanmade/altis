@@ -11,18 +11,18 @@
   ],
   "require": {
     "php": ">=7.1",
-    "humanmade/core": "dev-master",
-    "humanmade/cms": "dev-master",
-    "humanmade/cloud": "dev-master",
-    "humanmade/enhanced-search": "dev-master",
-    "humanmade/documentation": "dev-master",
-    "humanmade/media": "dev-master",
-    "humanmade/seo": "dev-master",
-    "humanmade/sso": "dev-master",
-    "humanmade/security": "dev-master",
-    "humanmade/multilingual": "dev-master",
-    "humanmade/workflow": "dev-master",
-    "humanmade/dev-tools": "dev-master",
-    "humanmade/analytics": "dev-master"
+    "altis/core": "dev-master",
+    "altis/cms": "dev-master",
+    "altis/cloud": "dev-master",
+    "altis/enhanced-search": "dev-master",
+    "altis/documentation": "dev-master",
+    "altis/media": "dev-master",
+    "altis/seo": "dev-master",
+    "altis/sso": "dev-master",
+    "altis/security": "dev-master",
+    "altis/multilingual": "dev-master",
+    "altis/workflow": "dev-master",
+    "altis/dev-tools": "dev-master",
+    "altis/analytics": "dev-master"
   }
 }
