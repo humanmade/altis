@@ -1,18 +1,6 @@
-<table width="100%">
-	<tr>
-		<td align="left" width="70">
-			<strong>Platform</strong><br />
-			Meta package for all the platform modules.
-		</td>
-		<td align="right" width="20%">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			A <strong><a href="https://hmn.md/">Human Made</a></strong> project. Maintained by @joehoyle.
-		</td>
-		<td align="center">
-			<img src="https://hmn.md/content/themes/hmnmd/assets/images/hm-logo.svg" width="100" />
-		</td>
-	</tr>
-</table>
+<h1 align="center"><img src="https://make.hmn.md/altis/Altis-logo.svg" width="89" alt="Altis" /></h1>
+
+<p align="center">Meta package for all <strong><a href="https://altis-dxp.com/">Altis</a></strong> modules.</p>
+
+<p align="center"><a href="https://packagist.org/packages/altis/altis"><img alt="Packagist Version" src="https://img.shields.io/packagist/v/altis/altis.svg"></a></p>
+
