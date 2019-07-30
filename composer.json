@@ -11,18 +11,18 @@
   ],
   "require": {
     "php": ">=7.1",
-    "altis/core": "dev-master",
-    "altis/cms": "dev-master",
-    "altis/cloud": "dev-master",
-    "altis/enhanced-search": "dev-master",
-    "altis/documentation": "dev-master",
-    "altis/media": "dev-master",
-    "altis/seo": "dev-master",
-    "altis/sso": "dev-master",
-    "altis/security": "dev-master",
-    "altis/multilingual": "dev-master",
-    "altis/workflow": "dev-master",
-    "altis/dev-tools": "dev-master",
-    "altis/analytics": "dev-master"
+    "altis/core": "^2.0.0",
+    "altis/cms": "^2.0.0",
+    "altis/cloud": "^2.0.0",
+    "altis/enhanced-search": "^2.0.0",
+    "altis/documentation": "^2.0.0",
+    "altis/media": "^2.0.0",
+    "altis/seo": "^2.0.0",
+    "altis/sso": "^2.0.0",
+    "altis/security": "^2.0.0",
+    "altis/multilingual": "^2.0.0",
+    "altis/workflow": "^2.0.0",
+    "altis/dev-tools": "^2.0.0",
+    "altis/analytics": "^2.0.0"
   }
 }
