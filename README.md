@@ -6,7 +6,7 @@
 
 <p align="center"><a href="https://packagist.org/packages/altis/altis"><img alt="Packagist Version" src="https://img.shields.io/packagist/v/altis/altis.svg"></a></p>
 
-Altis is designed in a modular way, and the documentation reflects this. Each module provides documentation on its configuration, features, and available internal APIs.
+Altis is designed in a modular way, and [the documentation](https://www.altis-dxp.com/resources/docs/) reflects this. Each module provides documentation on its configuration, features, and available internal APIs.
 
 ## Getting Started
 
