@@ -17,6 +17,7 @@
     "altis/enhanced-search": "dev-master",
     "altis/documentation": "dev-master",
     "altis/media": "dev-master",
+    "altis/privacy": "dev-main",
     "altis/seo": "dev-master",
     "altis/sso": "dev-master",
     "altis/security": "dev-master",
