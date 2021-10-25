@@ -11,19 +11,19 @@
   ],
   "require": {
     "php": ">=7.1",
-    "altis/core": "^9.0.0@beta",
-    "altis/cms": "^9.0.0@beta",
-    "altis/cloud": "^9.0.0@beta",
-    "altis/enhanced-search": "^9.0.0@beta",
-    "altis/documentation": "^9.0.0@beta",
-    "altis/media": "^9.0.0@beta",
-    "altis/privacy": "^9.0.0@beta",
-    "altis/seo": "^9.0.0@beta",
-    "altis/sso": "^9.0.0@beta",
-    "altis/security": "^9.0.0@beta",
-    "altis/multilingual": "^9.0.0@beta",
-    "altis/workflow": "^9.0.0@beta",
-    "altis/dev-tools": "^9.0.0@beta",
-    "altis/analytics": "^9.0.0@beta"
+    "altis/core": "^9.0.0",
+    "altis/cms": "^9.0.0",
+    "altis/cloud": "^9.0.0",
+    "altis/enhanced-search": "^9.0.0",
+    "altis/documentation": "^9.0.0",
+    "altis/media": "^9.0.0",
+    "altis/privacy": "^9.0.0",
+    "altis/seo": "^9.0.0",
+    "altis/sso": "^9.0.0",
+    "altis/security": "^9.0.0",
+    "altis/multilingual": "^9.0.0",
+    "altis/workflow": "^9.0.0",
+    "altis/dev-tools": "^9.0.0",
+    "altis/analytics": "^9.0.0"
   }
 }
