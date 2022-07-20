@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": ">=8.0",
+    "php": ">=7.4",
     "altis/core": "dev-master",
     "altis/cms": "dev-master",
     "altis/cloud": "dev-master",
