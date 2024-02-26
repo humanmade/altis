@@ -10,7 +10,7 @@
 		}
 	],
 	"require": {
-		"php": ">=8.1",
+		"php": ">=8.0",
 		"altis/core": "^18.0.0",
 		"altis/cms": "^18.0.0",
 		"altis/cloud": "^18.0.0",
