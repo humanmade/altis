@@ -11,16 +11,16 @@
 	],
 	"require": {
 		"php": ">=8.1",
-		"altis/core": "^v20.0.0@beta",
-		"altis/cms": "^v20.0.0@beta",
-		"altis/cloud": "^v20.0.0@beta",
-		"altis/enhanced-search": "^v20.0.0@beta",
-		"altis/documentation": "^v20.0.0@beta",
-		"altis/media": "^v20.0.0@beta",
-		"altis/privacy": "^v20.0.0@beta",
-		"altis/seo": "^v20.0.0@beta",
-		"altis/sso": "^v20.0.0@beta",
-		"altis/security": "^v20.0.0@beta",
-		"altis/dev-tools": "^v20.0.0@beta"
+		"altis/core": "^v20.0.0",
+		"altis/cms": "^v20.0.0",
+		"altis/cloud": "^v20.0.0",
+		"altis/enhanced-search": "^v20.0.0",
+		"altis/documentation": "^v20.0.0",
+		"altis/media": "^v20.0.0",
+		"altis/privacy": "^v20.0.0",
+		"altis/seo": "^v20.0.0",
+		"altis/sso": "^v20.0.0",
+		"altis/security": "^v20.0.0",
+		"altis/dev-tools": "^v20.0.0"
 	}
 }
