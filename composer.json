@@ -11,7 +11,7 @@
 	],
 	"require": {
 		"php": ">=8.1",
-		"altis/advanced-seecurity": "dev-master",
+		"altis/advanced-security": "dev-master",
 		"altis/core": "dev-master",
 		"altis/cms": "dev-master",
 		"altis/cloud": "dev-master",
