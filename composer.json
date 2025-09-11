@@ -10,17 +10,17 @@
 		}
 	],
 	"require": {
-		"php": ">=8.0",
-		"altis/core": "^18.0.0",
-		"altis/cms": "^18.0.0",
-		"altis/cloud": "^18.0.0",
-		"altis/enhanced-search": "^18.0.0",
-		"altis/documentation": "^18.0.0",
-		"altis/media": "^18.0.0",
-		"altis/privacy": "^18.0.0",
-		"altis/seo": "^18.0.0",
-		"altis/sso": "^18.0.0",
-		"altis/security": "^18.0.0",
-		"altis/dev-tools": "^18.0.0"
+		"php": ">=8.2",
+		"altis/core": "dev-master",
+		"altis/cms": "dev-master",
+		"altis/cloud": "dev-master",
+		"altis/enhanced-search": "dev-master",
+		"altis/documentation": "dev-master",
+		"altis/media": "dev-master",
+		"altis/privacy": "dev-master",
+		"altis/seo": "dev-master",
+		"altis/sso": "dev-master",
+		"altis/security": "dev-master",
+		"altis/dev-tools": "dev-master"
 	}
 }
